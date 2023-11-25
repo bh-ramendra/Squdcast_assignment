@@ -8,8 +8,8 @@ The assignment includes two CSV files containing relevant data. The objective is
 
 ## Table of Contents
 
-- [SquadCast_analysis.SQL](#SquadCast_analysis.SQL)
-- [Analysis.ipynb](#Analysis.ipynb)
+- [SquadCast_analysis.SQL](https://github.com/bh-ramendra/Squdcast_assignment/blob/main/analysis.ipynb)
+- [Analysis.ipynb](https://github.com/bh-ramendra/Squdcast_assignment/blob/main/analysis.ipynb)
 
 
 ## Installation
@@ -21,5 +21,5 @@ Include instructions on how to install and set up the project locally. You can a
 git clone https://github.com/bh-ramendra/Squdcast_assignment.git
 
 # Navigate to the project directory
-cd squadcast-assignment
+cd Squadcast_assignment
 
